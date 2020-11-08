@@ -5,10 +5,11 @@
     <br> My solutions to HackerRank problems
 </p>
 
- [LANGUAGE PROFICIENCY](#language-proficiency)
-    * [C](#c)
+* [LANGUAGE PROFICIENCY](#language-proficiency)
+ 
     * [C++](#c++)
     * [Python](#python)
+    
 
 # LANGUAGE PROFICIENCY
 
