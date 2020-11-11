@@ -25,7 +25,7 @@
 | Introduction | Easy | [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem) | [Functions.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/Functions.cpp)
 | Introduction | Easy | [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem) | [Pointer.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/Pointer.cpp)
 | Introduction | Easy | [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction/problem) | [Array_introduction.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/Array_introduction.cpp)
-| Introduction | Easy | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [Variable_sized_arrays.cpp](https://github.com/CSham31/Hac kerrank-Solutions/blob/main/C%2B%2B/Variable_sized_arrays.cpp)
+| Introduction | Easy | [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays/problem) | [Variable_sized_arrays.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/Variable_sized_arrays.cpp)
 | Strings | Easy | [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings/problem) | [String.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/String.cpp)
 | Strings | Easy | [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream/problem) | [String_stream.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/String_stream.cpp)
 | Classes | Easy | [Class](https://www.hackerrank.com/challenges/c-tutorial-class/problem) | [Class.cpp](https://github.com/CSham31/Hackerrank-Solutions/blob/main/C%2B%2B/Class.cpp)
